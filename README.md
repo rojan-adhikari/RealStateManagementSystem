@@ -1,5 +1,5 @@
 A small Project created by : 
--Salina Pradhan 
+
 -Rojan Adhikari 
 
 We have developed a cutting-edge project named the "Real Estate Management System." 
